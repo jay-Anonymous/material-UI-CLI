@@ -18,7 +18,7 @@
   "author": "Amos Kyalo",
   "license": "ISC",
   "dependencies": {
-    "@inquirer/prompts": "^4.0.0",
+    "@inquirer/prompts": "^7.0.0",
     "boxen": "^5.1.2",
     "chalk": "4.1.2",
     "clui": "^0.3.6",
